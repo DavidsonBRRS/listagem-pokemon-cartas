@@ -1,0 +1,16 @@
+/*----------Scoll-bar-code------------*/
+
+
+*::-webkit-scrollbar{
+    width: 12px;
+}
+
+*::-webkit-scrollbar-track{
+    background: #f1e9e9;
+}
+
+*::-webkit-scrollbar-thumb{
+    background-color: #582965;
+    border-radius: 10px;
+    border: solid 3px #f1e9e9;
+}
